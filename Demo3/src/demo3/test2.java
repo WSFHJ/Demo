@@ -7,8 +7,7 @@ public class test2 {
 	void b(){
 		
 	}
-	void c(){
+	void d(){
 		
 	}
-
 }
